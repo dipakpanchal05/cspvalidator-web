@@ -4,6 +4,10 @@ A **client-side, OWASP-aligned Content Security Policy (CSP) validator & hardene
 
 This is designed for **security engineers, bug bounty hunters, pentesters, and developers** who want instant CSP analysis **without sending data to any server**.
 
+# Link(s):
+- CSP Validator Web   [Link](https://dipakpanchal05.github.io/cspvalidator-web/)
+- CSP Validator Tool  [Link](https://github.com/dipakpanchal05/cspvalidator)
+
 ---
 
 ## 🚀 Features:
