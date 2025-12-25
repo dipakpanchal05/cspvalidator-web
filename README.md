@@ -87,5 +87,5 @@ Made with ❤️ by **th3.d1p4k**
 
 ## ⚠️ Disclaimer
 
-This tool is intended for **security testing and defensive hardening only**.  
+This tool is intended for **security testing and defensive hardening only**.  Author is not responsible any misuse or violations.
 Use responsibly and only on systems you own or have permission to test.
